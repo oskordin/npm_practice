@@ -1,0 +1,26 @@
+{
+  "name": "npm_practice_os",
+  "version": "1.0.0",
+  "description": "SF npm practice, Oleksii Skordin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskordin/npm_practice.git"
+  },
+  "keywords": [
+    "practice",
+    "sf"
+  ],
+  "author": "Oleksii Skordin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskordin/npm_practice/issues"
+  },
+  "homepage": "https://github.com/oskordin/npm_practice#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
